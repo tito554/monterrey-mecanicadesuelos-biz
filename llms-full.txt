@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Monterrey
+
+> Geotechnical engineering services in Monterrey, México.
+
+## Services
+- [Aislacion Sismica](https://monterrey.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://monterrey.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://monterrey.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://monterrey.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://monterrey.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://monterrey.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://monterrey.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://monterrey.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://monterrey.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://monterrey.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://monterrey.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://monterrey.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://monterrey.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://monterrey.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://monterrey.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://monterrey.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://monterrey.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://monterrey.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://monterrey.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://monterrey.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://monterrey.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://monterrey.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://monterrey.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://monterrey.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://monterrey.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://monterrey.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://monterrey.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://monterrey.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://monterrey.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://monterrey.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://monterrey.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://monterrey.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://monterrey.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://monterrey.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://monterrey.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://monterrey.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://monterrey.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://monterrey.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://monterrey.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://monterrey.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Monterrey, México.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
